@@ -1,6 +1,4 @@
-# ChatVerse - Advanced Real-Time Chat App
-
-## General Info
+# API Calls and Socket Events
 
 ### Socket Events
 
